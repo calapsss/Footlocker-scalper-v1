@@ -1,0 +1,38 @@
+1631080295267	geckodriver	INFO	Listening on 127.0.0.1:61448
+1631080298319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C24CHA~1.CAL\\AppData\\Local\\Temp\\rust_mozprofileQyTNZt"
+JavaScript error: wd5ayerkqmz.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631080305256	Marionette	INFO	Listening on port 61497
+1631080305380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631080405198	geckodriver	INFO	Listening on 127.0.0.1:62546
+1631080414489	geckodriver	INFO	Listening on 127.0.0.1:62642
+1631080421011	geckodriver	INFO	Listening on 127.0.0.1:62816
+1631080424093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C24CHA~1.CAL\\AppData\\Local\\Temp\\rust_mozprofileK9VFs1"
+JavaScript error: wd5ayerkqmz.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631080431453	Marionette	INFO	Listening on port 62875
+1631080432112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631080674496	geckodriver	INFO	Listening on 127.0.0.1:64296
+1631080677570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C24CHA~1.CAL\\AppData\\Local\\Temp\\rust_mozprofile1uq0dt"
+JavaScript error: wd5ayerkqmz.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631080683927	Marionette	INFO	Listening on port 64322
+1631080684393	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631080692408	geckodriver	INFO	Listening on 127.0.0.1:64666
+1631080695462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C24CHA~1.CAL\\AppData\\Local\\Temp\\rust_mozprofileHqA33Q"
+JavaScript error: wd5ayerkqmz.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631080702302	Marionette	INFO	Listening on port 64743
+1631080702433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631080794734	geckodriver	INFO	Listening on 127.0.0.1:49965
+1631080797783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C24CHA~1.CAL\\AppData\\Local\\Temp\\rust_mozprofileFgwOZG"
+JavaScript error: wd5ayerkqmz.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631080804528	Marionette	INFO	Listening on port 50145
+1631080804776	Marionette	WARN	TLS certificate errors will be ignored for this session
+1631218598479	geckodriver	INFO	Listening on 127.0.0.1:63986
+1631218601583	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\C24CHA~1.CAL\\AppData\\Local\\Temp\\rust_mozprofile4gdyrH"
+JavaScript error: wd5ayerkqmz.cfg, line 2: ReferenceError: Components is not defined
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1631218607354	Marionette	INFO	Listening on port 63994
+1631218607524	Marionette	WARN	TLS certificate errors will be ignored for this session
